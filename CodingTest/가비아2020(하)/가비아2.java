@@ -16,4 +16,5 @@ public class 가비아2 {
 		return answer;
 	}
 
+	
 }
