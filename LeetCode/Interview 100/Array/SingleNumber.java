@@ -3,7 +3,7 @@ package Array;
 import java.util.HashMap;
 import java.util.Map;
 
-public class leet136_SingleNumber {
+public class SingleNumber {
     public int singleNumber(int[] nums) {
         
         Map<Integer,Integer> map = new HashMap<>();

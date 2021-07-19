@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Arrays;
 
-public class leet66_PlusOne {
+public class PlusOne {
     public int[] plusOne(int[] digits) {
         int i = digits.length -1;
         int[] ans = Arrays.copyOf(digits, digits.length);
